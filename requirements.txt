@@ -1,0 +1,8 @@
+python==3.6
+tensorflow==1.13.1
+torch==1.5.0
+prophet==1.0.1
+cuda==11.0
+tfplus==1.0.9
+penrose=2.0.0
+recbole
